@@ -9,3 +9,5 @@
 (set-background-color "Black")
 (set-cursor-color "GoldenRod")
 (set-frame-font "Menlo 16" nil t)
+
+(provide 'init-local)
